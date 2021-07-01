@@ -215,7 +215,7 @@
 		"avaxPromotionDollarThreshold": 100,
 		"avaxPromotionAmount": "100000000000000000"
 	},
-	"COMP": {
+	"MKR": {
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
 		"denomination": 18,
