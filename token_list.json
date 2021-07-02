@@ -9,7 +9,9 @@
 		"offboardFeeProcessThreshold": "500000000",
 		"chainlinkFeedAddress": "0x0bF499444525a23E7Bb61997539725cA2e928138",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/USDT/logo.png",
+		"coingeckoId": "tether"
 	},
 	"DAI": {
 		"nativeNetwork": "ethereum",
@@ -21,7 +23,9 @@
 		"offboardFeeProcessThreshold": "500000000000000000000",
 		"chainlinkFeedAddress": "0x773616E4d11A78F511299002da57A0a94577F1f4",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/DAI/logo.png",
+		"coingeckoId": "dai"
 	},
 	"LINK": {
 		"nativeNetwork": "ethereum",
@@ -33,7 +37,9 @@
 		"offboardFeeProcessThreshold": "25000000000000000000",
 		"chainlinkFeedAddress": "0xDC530D9457755926550b59e8ECcdaE7624181557",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/LINK/logo.png",
+		"coingeckoId": "chainlink"
 	},
 	"SUSHI": {
 		"nativeNetwork": "ethereum",
@@ -45,7 +51,9 @@
 		"offboardFeeProcessThreshold": "70000000000000000000",
 		"chainlinkFeedAddress": "0xe572CeF69f43c2E488b33924AF04BDacE19079cf",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/SUSHI/logo.png",
+		"coingeckoId": "sushi"
 	},
 	"BUSD": {
 		"nativeNetwork": "ethereum",
@@ -57,7 +65,9 @@
 		"offboardFeeProcessThreshold": "500000000000000000000",
 		"chainlinkFeedAddress": "0x833D8Eb16D306ed1FbB5D7A2E019e106B960965A",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/BUSD/logo.png",
+		"coingeckoId": "binance-usd"
 	},
 	"UNI": {
 		"nativeNetwork": "ethereum",
@@ -69,7 +79,9 @@
 		"offboardFeeProcessThreshold": "25000000000000000000",
 		"chainlinkFeedAddress": "0xD6aA3D25116d8dA79Ea0246c4826EB951872e02e",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/UNI/logo.png",
+		"coingeckoId": "uniswap"
 	},
 	"WETH": {
 		"nativeNetwork": "ethereum",
@@ -81,7 +93,9 @@
 		"offboardFeeProcessThreshold": "20000000000000000",
 		"chainlinkFeedAddress": "",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/WETH/logo.svg",
+		"coingeckoId": "weth"
 	},
 	"GRT": {
 		"nativeNetwork": "ethereum",
@@ -93,7 +107,9 @@
 		"offboardFeeProcessThreshold": "800000000000000000000",
 		"chainlinkFeedAddress": "0x17D054eCac33D91F7340645341eFB5DE9009F1C1",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/GRT/logo.png",
+		"coingeckoId": "the-graph"
 	},
 	"AAVE": {
 		"nativeNetwork": "ethereum",
@@ -105,7 +121,9 @@
 		"offboardFeeProcessThreshold": "2000000000000000000",
 		"chainlinkFeedAddress": "0x6Df09E975c830ECae5bd4eD9d90f3A95a4f88012",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/AAVE/logo.png",
+		"coingeckoId": "aave"
 	},
 	"BAT": {
 		"nativeNetwork": "ethereum",
@@ -117,9 +135,11 @@
 		"offboardFeeProcessThreshold": "800000000000000000000",
 		"chainlinkFeedAddress": "0x0d16d4528239e9ee52fa531af613AcdB23D88c94",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/BAT/logo.png",
+		"coingeckoId": "basic-attention-token"
 	},
-	"ZRT": {
+	"ZRX": {
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0xe41d2489571d322189246dafa5ebde1f4699f498",
 		"denomination": 18,
@@ -129,7 +149,9 @@
 		"offboardFeeProcessThreshold": "700000000000000000000",
 		"chainlinkFeedAddress": "0x2Da4983a622a8498bb1a21FaE9D8F6C664939962",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/ZRX/logo.png",
+		"coingeckoId": "0x"
 	},
 	"UMA": {
 		"nativeNetwork": "ethereum",
@@ -141,7 +163,9 @@
 		"offboardFeeProcessThreshold": "50000000000000000000",
 		"chainlinkFeedAddress": "0xf817B69EA583CAFF291E287CaE00Ea329d22765C",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/UMA/logo.png",
+		"coingeckoId": "uma"
 	},
 	"WBTC": {
 		"nativeNetwork": "ethereum",
@@ -153,7 +177,9 @@
 		"offboardFeeProcessThreshold": "1200000",
 		"chainlinkFeedAddress": "0xdeb288F737066589598e9214E782fa5A8eD689e8",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/WBTC/logo.png",
+		"coingeckoId": "wrapped-bitcoin"
 	},
 	"1INCH": {
 		"nativeNetwork": "ethereum",
@@ -165,7 +191,9 @@
 		"offboardFeeProcessThreshold": "200000000000000000000",
 		"chainlinkFeedAddress": "0x72AFAECF99C9d9C8215fF44C77B94B99C28741e8",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/1INCH/logo.png",
+		"coingeckoId": "1inch"
 	},
 	"RUNE": {
 		"nativeNetwork": "ethereum",
@@ -177,7 +205,9 @@
 		"offboardFeeProcessThreshold": "80000000000000000000",
 		"chainlinkFeedAddress": "0x875D60C44cfbC38BaA4Eb2dDB76A767dEB91b97e",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/RUNE/logo.png",
+		"coingeckoId": "thorchain"
 	},
 	"SNX": {
 		"nativeNetwork": "ethereum",
@@ -189,7 +219,9 @@
 		"offboardFeeProcessThreshold": "80000000000000000000",
 		"chainlinkFeedAddress": "0x79291A9d692Df95334B1a0B3B4AE6bC606782f8c",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/SNX/logo.png",
+		"coingeckoId": "havven"
 	},
 	"YFI": {
 		"nativeNetwork": "ethereum",
@@ -201,7 +233,9 @@
 		"offboardFeeProcessThreshold": "15000000000000000",
 		"chainlinkFeedAddress": "0x7c5d4F8345e66f68099581Db340cd65B078C41f4",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/YFI/logo.png",
+		"coingeckoId": "yearn-finance"
 	},
 	"COMP": {
 		"nativeNetwork": "ethereum",
@@ -213,7 +247,9 @@
 		"offboardFeeProcessThreshold": "1300000000000000000",
 		"chainlinkFeedAddress": "0x1B39Ee86Ec5979ba5C322b826B3ECb8C79991699",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/COMP/logo.png",
+		"coingeckoId": "compound-coin"
 	},
 	"MKR": {
 		"nativeNetwork": "ethereum",
@@ -225,6 +261,8 @@
 		"offboardFeeProcessThreshold": "220000000000000000",
 		"chainlinkFeedAddress": "0x24551a8Fb2A7211A25a17B1481f043A8a8adC7f2",
 		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000"
+		"avaxPromotionAmount": "100000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/MKR/logo.png",
+		"coingeckoId": "maker"
 	}
 }
