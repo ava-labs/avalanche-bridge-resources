@@ -3,13 +3,7 @@
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0x01BE23585060835E02B77ef475b0Cc51aA1e0709",
 		"denomination": 18,
-		"onboardFeePercentage": "0.000",
-		"maximumOnboardFee": "1000000000000000000",
-		"offboardFeeDollars": 5,
-		"offboardFeeProcessThreshold": "25000000000000000000",
 		"chainlinkFeedAddress": "0xd8bD0a1cB028a31AA859A21A3758685a95dE4623",
-		"avaxPromotionDollarThreshold": 100,
-		"avaxPromotionAmount": "100000000000000000",
 		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/LINK/logo.png",
 		"coingeckoId": "chainlink"
 	}
