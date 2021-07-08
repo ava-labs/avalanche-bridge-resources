@@ -131,12 +131,7 @@
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
 		"denomination": 18,
-		"onboardFeePercentage": "0.000",
-		"maximumOnboardFee": "5000000000000000",
-		"offboardFeeDollars": 5,
-		"offboardFeeProcessThreshold": "15000000000000000",
 		"chainlinkFeedAddress": "0x7c5d4F8345e66f68099581Db340cd65B078C41f4",
-		
 		"logo": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-bridge-token-list/tokens/YFI/logo.png",
 		"coingeckoId": "yearn-finance"
 	},
