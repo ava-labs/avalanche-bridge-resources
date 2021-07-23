@@ -4,13 +4,13 @@ pragma solidity ^0.8.0;
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
 import "./Roles.sol";
 
-contract WrappedERC20 is ERC20Burnable {
+contract BridgeToken is ERC20Burnable {
     using Roles for Roles.Role;
 
     Roles.Role private bridgeRoles;
 
     string private constant TOKEN_NAME = "Example Token";
-    string private constant TOKEN_SYMBOL = "aEXMP";
+    string private constant TOKEN_SYMBOL = "EXMP.e";
     uint8 private constant TOKEN_DECIMALS = 18;
 
     struct SwapToken {
