@@ -141,7 +141,7 @@
 		"denomination": 18,
 		"chainlinkFeedAddress": "0x1B39Ee86Ec5979ba5C322b826B3ECb8C79991699",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/COMP/logo.png",
-		"coingeckoId": "compound-coin"
+		"coingeckoId": "compound-governance-token"
 	},
 	"MKR": {
 		"nativeNetwork": "ethereum",
