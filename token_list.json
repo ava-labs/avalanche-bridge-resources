@@ -111,14 +111,6 @@
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/1INCH/logo.png",
 		"coingeckoId": "1inch"
 	},
-	"RUNE": {
-		"nativeNetwork": "ethereum",
-		"nativeContractAddress": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
-		"denomination": 18,
-		"chainlinkFeedAddress": "0x875D60C44cfbC38BaA4Eb2dDB76A767dEB91b97e",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/RUNE/logo.png",
-		"coingeckoId": "thorchain"
-	},
 	"SNX": {
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
