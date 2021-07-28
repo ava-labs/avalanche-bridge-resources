@@ -13,7 +13,7 @@
 		"nativeContractAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
 		"denomination": 18,
 		"chainlinkFeedAddress": "0xDC530D9457755926550b59e8ECcdaE7624181557",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/LINK/logo.png",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png",
 		"coingeckoId": "chainlink"
 	},
     ```
