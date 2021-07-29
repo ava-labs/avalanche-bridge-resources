@@ -142,5 +142,13 @@
 		"chainlinkFeedAddress": "0x24551a8Fb2A7211A25a17B1481f043A8a8adC7f2",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png",
 		"coingeckoId": "maker"
+	},
+	"USDC": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png",
+		"coingeckoId": "usd-coin"
 	}
 }
