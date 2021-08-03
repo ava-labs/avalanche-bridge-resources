@@ -158,5 +158,5 @@
 		"chainlinkFeedAddress": "0x4700b6FF2ac727A47F2F7771529a0a25907E0cBe",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/FXS/logo.png",
 		"coingeckoId": "frax-share"
-	},
+	}
 }
