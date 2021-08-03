@@ -142,5 +142,21 @@
 		"chainlinkFeedAddress": "0x24551a8Fb2A7211A25a17B1481f043A8a8adC7f2",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png",
 		"coingeckoId": "maker"
-	}
+	},
+	"FRAX": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x14d04Fff8D21bd62987a5cE9ce543d2F1edF5D3E",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/FRAX/logo.png",
+		"coingeckoId": "frax"
+	},
+	"FXS": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x4700b6FF2ac727A47F2F7771529a0a25907E0cBe",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/FXS/logo.png",
+		"coingeckoId": "frax-share"
+	},
 }
