@@ -6,5 +6,13 @@
 		"chainlinkFeedAddress": "0xd8bD0a1cB028a31AA859A21A3758685a95dE4623",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png",
 		"coingeckoId": "chainlink"
+	},
+	"WETH": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x0000000000000000000000000000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png",
+		"coingeckoId": "weth"
 	}
 }
