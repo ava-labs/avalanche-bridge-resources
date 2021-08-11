@@ -142,5 +142,13 @@
 		"chainlinkFeedAddress": "0x24551a8Fb2A7211A25a17B1481f043A8a8adC7f2",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png",
 		"coingeckoId": "maker"
+	},
+	"FRAX": {
+	"nativeNetwork": "ethereum",
+	"nativeContractAddress": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+	"denomination": 18,
+	"chainlinkFeedAddress": "0x14d04fff8d21bd62987a5ce9ce543d2f1edf5d3e",
+	"logo": "https://cryptologos.cc/logos/frax-frax-logo.png",
+	"coingeckoId": "frax"
 	}
 }
