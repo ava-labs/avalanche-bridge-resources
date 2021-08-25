@@ -1,4 +1,12 @@
 {
+	"MIM": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MIM/logo.png",
+		"coingeckoId": "magic-internet-money"
+	},
 	"USDT": {
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
