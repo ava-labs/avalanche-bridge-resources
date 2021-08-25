@@ -10,7 +10,7 @@
 	"DAI": {
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
-		"denomination": 18,	
+		"denomination": 18,
 		"chainlinkFeedAddress": "0x773616E4d11A78F511299002da57A0a94577F1f4",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png",
 		"coingeckoId": "dai"
@@ -158,5 +158,21 @@
 		"chainlinkFeedAddress": "0x4700b6FF2ac727A47F2F7771529a0a25907E0cBe",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/FXS/logo.png",
 		"coingeckoId": "frax-share"
+=======
+	"SWAP": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0xffa4Bb3a24B60C0262DBAaD60d77a3c3fa6173e8",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/SWAP/logo.png",
+		"coingeckoId": "trustswap"
+	},
+	"USDC": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"denomination": 6,
+		"chainlinkFeedAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/USDC/logo.png",
+		"coingeckoId": "usd-coin"
 	}
 }
