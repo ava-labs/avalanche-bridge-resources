@@ -158,5 +158,13 @@
 		"chainlinkFeedAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/USDC/logo.png",
 		"coingeckoId": "usd-coin"
+	},
+	"SFI": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0xea286b2584f79cd4d322fe107d9683971c890596",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SFI/logo.png",
+		"coingeckoId": "saffron-finance"
 	}
 }
