@@ -158,5 +158,13 @@
 		"chainlinkFeedAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/USDC/logo.png",
 		"coingeckoId": "usd-coin"
+	},
+	"CRV": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0xCd627aA160A6fA45Eb793D19Ef54f5062F20f33f",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/CRV/logo.png",
+		"coingeckoId": "curve-dao-token"
 	}
 }
