@@ -1,4 +1,12 @@
 {
+	"ANKR": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x2f2ea25382A236FD115Dff160d258351B8b32D63",
+		"logo": "https://github.com/eugentirlea/avalanche-bridge-resources/blob/main/tokens/ANKR/logo.png",
+		"coingeckoId": "ankr"
+		
 	"USDT": {
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
