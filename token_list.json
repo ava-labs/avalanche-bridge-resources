@@ -158,5 +158,13 @@
 		"chainlinkFeedAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/USDC/logo.png",
 		"coingeckoId": "usd-coin"
+	},
+	"ibBTC": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f",
+		"denomination": 18,
+		"chainlinkFeedAddress": "",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ibBTC/logo.png",
+		"coingeckoId": "interest-bearing-bitcoin"
 	}
 }
