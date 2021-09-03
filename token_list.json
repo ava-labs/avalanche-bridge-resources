@@ -163,7 +163,7 @@
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
 		"denomination": 18,
-		"chainlinkFeedAddress": "0xdc3ea94cd0ac27d9a86c180091e7f78c683d3699",
+		"chainlinkFeedAddress": "0x79291a9d692df95334b1a0b3b4ae6bc606782f8c",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/SNX/logo.png",
 		"coingeckoId": "synthetix-network-token"
 	}
