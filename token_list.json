@@ -1,4 +1,12 @@
 {
+	"KNC": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x656c0544eF4C98A6a98491833A89204Abb045d6b",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/KNC/logo.png",
+		"coingeckoId": "kyber-network-crystal-v2"
+	},
 	"USDT": {
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
