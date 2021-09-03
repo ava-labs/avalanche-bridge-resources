@@ -158,5 +158,13 @@
 		"chainlinkFeedAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/USDC/logo.png",
 		"coingeckoId": "usd-coin"
+	},
+	"SNX": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0xdc3ea94cd0ac27d9a86c180091e7f78c683d3699",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/SNX/logo.png",
+		"coingeckoId": "synthetix-network-token"
 	}
 }
