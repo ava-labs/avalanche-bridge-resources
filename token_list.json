@@ -166,5 +166,13 @@
 		"chainlinkFeedAddress": "",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ibBTC/logo.png",
 		"coingeckoId": "interest-bearing-bitcoin"
+	},
+	"BADGER": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x58921Ac140522867bf50b9E009599Da0CA4A2379",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BADGER/logo.png",
+		"coingeckoId": "badger-dao"
 	}
 }
