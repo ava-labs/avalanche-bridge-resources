@@ -159,6 +159,14 @@
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/USDC/logo.png",
 		"coingeckoId": "usd-coin"
 	},
+	"CRV": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x8a12Be339B0cD1829b91Adc01977caa5E9ac121e",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/CRV/logo.png",
+		"coingeckoId": "curve-dao-token"
+	},
 	"ibBTC": {
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f",
