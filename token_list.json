@@ -166,5 +166,13 @@
 		"chainlinkFeedAddress": "0x8a12Be339B0cD1829b91Adc01977caa5E9ac121e",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/CRV/logo.png",
 		"coingeckoId": "curve-dao-token"
+	},
+	"CTSI": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x0a1d1b9847d602e789be38B802246161FFA24930",
+		"logo": "https://raw.githubusercontent.com/colinsteil/CTSI-Token-Icon/master/2-Cartesi%20Official%20Icon%20DARK%20THEME%20(1)%20(1).png",
+		"coingeckoId": "cartesi"
 	}
 }
