@@ -18,7 +18,7 @@ We are always evaluating new tokens to add support for on the Avalanche Bridge. 
 		"coingeckoId": "chainlink"
 	},
     ```
-2. Include a png file for the token logo in the `Tokens/` directory.
+2. Include a png file for the token logo in the `tokens/` directory.
 3. The `chainlinkFeedAddress` field must refer to the token/ETH Chainlink price feed.
 4. If your token has a Rinkeby feed, we strongly encourage you to add your token to the token_list.test.json configuration.
 5. The template used for token deployments on the Avalanche C-Chain can be found in the `SmartContracts/` directory. If your project requires additional features, please contact the Ava Labs team.
