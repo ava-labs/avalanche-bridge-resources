@@ -22,7 +22,7 @@ We are always evaluating new tokens to add support for on the Avalanche Bridge. 
 3. The `chainlinkFeedAddress` field must refer to the token/ETH Chainlink price feed.
 4. If your token has a Rinkeby feed, we strongly encourage you to add your token to the token_list.test.json configuration.
 5. The template used for token deployments on the Avalanche C-Chain can be found in the `SmartContracts/` directory. If your project requires additional features, please contact the Ava Labs team.
-6. It is important to note that the `nativeContractAddress` refers to the contract on Ethereum mainnnet. Once a token is added to the bridge, the Avalanche C-Chain address will be added to the `avalanche_contract_address.json` file.
+6. It is important to note that the `nativeContractAddress` refers to the contract on Ethereum mainnet. Once a token is added to the bridge, the Avalanche C-Chain address will be added to the `avalanche_contract_address.json` file.
 
 ### Avalanche C-Chain Contract Addresses
 1. All tokens that are supported by the bridge have their Avalanche C-Chain contract address listed within the `avalanche_contract_address.json` file.
