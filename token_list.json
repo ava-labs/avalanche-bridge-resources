@@ -182,5 +182,13 @@
 		"chainlinkFeedAddress": "0x926a93B44a887076eDd00257E5D42fafea313363",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/WOO/logo.png",
 		"coingeckoId": "woo-network"
+	},
+	"SHIB": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/SHIB/logo.png",
+		"coingeckoId": "shiba-inu"
 	}
 }
