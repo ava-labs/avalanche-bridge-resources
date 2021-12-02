@@ -187,7 +187,7 @@
 		"nativeNetwork": "ethereum",
 		"nativeContractAddress": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
 		"denomination": 18,
-		"chainlinkFeedAddress": "0xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+		"chainlinkFeedAddress": "0x8dD1CD88F43aF196ae478e91b9F5E4Ac69A97C61",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/SHIB/logo.png",
 		"coingeckoId": "shiba-inu"
 	}
