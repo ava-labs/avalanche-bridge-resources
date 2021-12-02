@@ -166,5 +166,29 @@
 		"chainlinkFeedAddress": "0x8a12Be339B0cD1829b91Adc01977caa5E9ac121e",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/CRV/logo.png",
 		"coingeckoId": "curve-dao-token"
+	},
+	"ALPHA": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x89c7926c7c15fD5BFDB1edcFf7E7fC8283B578F6",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/ALPHA/logo.png",
+		"coingeckoId": "alpha-finance"
+	},
+	"WOO": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x926a93B44a887076eDd00257E5D42fafea313363",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/WOO/logo.png",
+		"coingeckoId": "woo-network"
+	},
+	"SHIB": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x8dD1CD88F43aF196ae478e91b9F5E4Ac69A97C61",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/SHIB/logo.png",
+		"coingeckoId": "shiba-inu"
 	}
 }
