@@ -14,5 +14,37 @@
 		"chainlinkFeedAddress": "0x0000000000000000000000000000000000000000",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png",
 		"coingeckoId": "weth"
+	},
+	"USDC": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xeb8f08a975Ab53E34D8a0330E0D34de942C95926",
+		"denomination": 6,
+		"chainlinkFeedAddress": "0xdCA36F27cbC4E38aE16C4E9f99D39b42337F6dcf",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/USDC/logo.png",
+		"coingeckoId": "usd-coin"
+	},
+	"USDT": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x3B00Ef435fA4FcFF5C209a37d1f3dcff37c705aD",
+		"denomination": 6,
+		"chainlinkFeedAddress": "0xdCA36F27cbC4E38aE16C4E9f99D39b42337F6dcf",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png",
+		"coingeckoId": "tether"
+	},
+	"DAI": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x74825DbC8BF76CC4e9494d0ecB210f676Efa001D",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png",
+		"coingeckoId": "dai"
+	},
+	"WBTC": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x577D296678535e4903D59A4C929B718e1D575e0A",
+		"denomination": 8,
+		"chainlinkFeedAddress": "0x2431452A0010a43878bF198e170F6319Af6d27F4",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png",
+		"coingeckoId": "wrapped-bitcoin"
 	}
 }
