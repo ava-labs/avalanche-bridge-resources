@@ -190,5 +190,13 @@
 		"chainlinkFeedAddress": "0x8dD1CD88F43aF196ae478e91b9F5E4Ac69A97C61",
 		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/SHIB/logo.png",
 		"coingeckoId": "shiba-inu"
+	},
+	"INFRA": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x013062189dc3dcc99e9Cee714c513033b8d99e3c",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x0000000000000000000000000000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/INFRA/logo.png",
+		"coingeckoId": "bware"
 	}
 }
