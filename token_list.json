@@ -148,7 +148,7 @@
 		"nativeContractAddress": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
 		"denomination": 18,
 		"chainlinkFeedAddress": "0xffa4Bb3a24B60C0262DBAaD60d77a3c3fa6173e8",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/SWAP/logo.png",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SWAP/logo.png",
 		"coingeckoId": "trustswap"
 	},
 	"USDC": {
@@ -156,7 +156,7 @@
 		"nativeContractAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
 		"denomination": 6,
 		"chainlinkFeedAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/USDC/logo.png",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png",
 		"coingeckoId": "usd-coin"
 	},
 	"CRV": {
@@ -164,7 +164,7 @@
 		"nativeContractAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
 		"denomination": 18,
 		"chainlinkFeedAddress": "0x8a12Be339B0cD1829b91Adc01977caa5E9ac121e",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/CRV/logo.png",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/CRV/logo.png",
 		"coingeckoId": "curve-dao-token"
 	},
 	"ALPHA": {
@@ -172,7 +172,7 @@
 		"nativeContractAddress": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
 		"denomination": 18,
 		"chainlinkFeedAddress": "0x89c7926c7c15fD5BFDB1edcFf7E7fC8283B578F6",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/ALPHA/logo.png",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/ALPHA/logo.png",
 		"coingeckoId": "alpha-finance"
 	},
 	"WOO": {
@@ -180,7 +180,7 @@
 		"nativeContractAddress": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
 		"denomination": 18,
 		"chainlinkFeedAddress": "0x926a93B44a887076eDd00257E5D42fafea313363",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/WOO/logo.png",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WOO/logo.png",
 		"coingeckoId": "woo-network"
 	},
 	"SHIB": {
@@ -188,7 +188,15 @@
 		"nativeContractAddress": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
 		"denomination": 18,
 		"chainlinkFeedAddress": "0x8dD1CD88F43aF196ae478e91b9F5E4Ac69A97C61",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/SHIB/logo.png",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SHIB/logo.png",
 		"coingeckoId": "shiba-inu"
+	},
+	"INFRA": {
+		"nativeNetwork": "ethereum",
+		"nativeContractAddress": "0x013062189dc3dcc99e9Cee714c513033b8d99e3c",
+		"denomination": 18,
+		"chainlinkFeedAddress": "0x0000000000000000000000000000000000000000",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/INFRA/logo.png",
+		"coingeckoId": "bware"
 	}
 }

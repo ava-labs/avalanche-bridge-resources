@@ -20,7 +20,7 @@
 		"nativeContractAddress": "0xeb8f08a975Ab53E34D8a0330E0D34de942C95926",
 		"denomination": 6,
 		"chainlinkFeedAddress": "0xdCA36F27cbC4E38aE16C4E9f99D39b42337F6dcf",
-		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-token-list/main/tokens/USDC/logo.png",
+		"logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png",
 		"coingeckoId": "usd-coin"
 	},
 	"USDT": {
