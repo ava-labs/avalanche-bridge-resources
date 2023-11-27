@@ -4,6 +4,7 @@
         "domain": 0,
         "tokenRouterAddress": "0xD835dbD135AD8a27214ecdEE79E7a41337865648",
         "messageTransmitterAddress": "0x0a992d191deec32afe36203ad87d7d289a738f81",
+        "minimumConfirmations": 96,
         "tokens": [
             {
                 "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -18,6 +19,7 @@
         "domain": 1,
         "tokenRouterAddress": "0xD835dbD135AD8a27214ecdEE79E7a41337865648",
         "messageTransmitterAddress": "0x8186359af5f57fbb40c6b14a588d2a59c0c29880",
+        "minimumConfirmations": 20,
         "tokens": [
             {
                 "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
