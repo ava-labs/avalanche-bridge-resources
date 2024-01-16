@@ -1,13 +1,13 @@
 [
     {
-        "chainId": 5,
+        "chainId": 11155111,
         "domain": 0,
-        "tokenRouterAddress": "0x3776ed16d37390a132d47e1137bda83ddf6090c4",
-        "messageTransmitterAddress": "0x26413e8157cd32011e726065a5462e97dd4d03d9",
+        "tokenRouterAddress": "0x2DBd09Bfb9DaB73334d1Ee0dd38b6e530B816d44",
+        "messageTransmitterAddress": "0x7865fAfC2db2093669d92c0F33AeEF291086BEFD",
         "minimumConfirmations": 6,
         "tokens": [
             {
-                "address": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
+                "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
                 "name": "USD Coin",
                 "symbol": "USDC",
                 "decimals": 6
@@ -30,3 +30,4 @@
         ]
     }
 ]
+
