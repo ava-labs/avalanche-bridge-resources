@@ -4,7 +4,7 @@
         "domain": 0,
         "tokenRouterAddress": "0x2DBd09Bfb9DaB73334d1Ee0dd38b6e530B816d44",
         "messageTransmitterAddress": "0x7865fAfC2db2093669d92c0F33AeEF291086BEFD",
-        "minimumConfirmations": 6,
+        "minimumConfirmations": 10,
         "tokens": [
             {
                 "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
